@@ -8,7 +8,7 @@ The user could add songs from the list in a cart. The cart should display a smal
 
 This application initialised with angular-seed.
 
-![Alt text](iTunes-search/app/imgs/CheerChen.png?raw=true "Title")
+![Alt text](app/imgs/CheerChen.png?raw=true "Title")
 
 ### Install Dependencies
 
