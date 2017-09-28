@@ -4,7 +4,7 @@ The application allows the user to search songs in iTunes library.
 
 The search result will contain a list of songs, each item contains the song title, the artist name and the cover art of the album.
 
-The user could add songs from the list in a cart. The cart should display a small summary of the selected songs, as well as a total price of its content.
+The user could click button "Buy now" to add songs from the list in a cart which will show a total price of its content.
 
 ![Alt text](app/imgs/CheerChen.png?raw=true "Title")
 
