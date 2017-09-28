@@ -1,0 +1,62 @@
+/* app css stylesheet */
+
+h1 {
+ font-family: "HelveticaNeue-UltraLight", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-size: 60px;
+ font-weight: normal;
+ margin: 0;
+ text-align: center;
+}
+
+input[type="text"] {
+  border: solid 1px #dcdcdc;
+  font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+  margin: 20px 5px 20px 30px;
+  padding: 10px;
+  transition: box-shadow 0.3s, border 0.3s;
+  width: 200px;
+}
+
+input[type="text"]:focus {
+  border: solid 1px #707070;
+  box-shadow: 0 0 5px 1px #969696;
+}
+
+.button {
+	-webkit-font-smoothing: antialiased;
+	background: #009ED8;
+  border: none;
+	border-radius: 3px;
+	color: white;
+	display: inline-block;
+	font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+	padding: .55em 1.4em;
+	position: relative;
+	transition: .2s;
+}
+
+table {
+  padding: 15px;
+  position: relative;
+}
+
+.search {
+  margin: 10px 20px;
+  width: 100%;
+}
+
+th, td {
+  font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+  padding: 15px;
+  text-align: left;
+}
+
+label {
+  float: right;
+  font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 30px 160px 0 10px;
+  text-align: right;
+  text-decoration: none;
+  width: 10em;
+}
