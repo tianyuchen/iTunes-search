@@ -6,9 +6,9 @@ The search result will contain a list of songs, each item contains the song titl
 
 The user could add songs from the list in a cart. The cart should display a small summary of the selected songs, as well as a total price of its content.
 
-This application initialised with angular-seed.
-
 ![Alt text](app/imgs/CheerChen.png?raw=true "Title")
+
+This application initialised with angular-seed.
 
 ### Install Dependencies
 
