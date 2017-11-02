@@ -29,6 +29,7 @@ angular.module('myApp.view', ['ngRoute'])
         searchResults.push(result);
       }
       $scope.results = searchResults;
+      $scope.searched = true;
     });
   }
 
