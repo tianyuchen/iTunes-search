@@ -12,6 +12,7 @@ angular.module('myApp.view', ['ngRoute'])
 .controller('viewCtrl', function($scope, $http) {
 
   $scope.submitSearch = function(url){
+
     $http({
      url: 'https://itunes.apple.com/search',
      method: "GET",
